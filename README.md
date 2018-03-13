@@ -1,6 +1,6 @@
 # percentageAndroidStudio
 
-In build.gradle (Module app) add this into dependencies:
+In /app/build.gradle (Module app) add this into dependencies:
     // Add Library
     compile 'com.android.support:percent:25.0.1'
     
